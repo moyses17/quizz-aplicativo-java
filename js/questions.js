@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Qual é o menor país do mundo",
+    answer: "Vaticano",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Vaticano",
+      "Paraguai",
+      "Coreia do sul",
+      "Cuba"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual o manga mais vendido do mundo",
+    answer: "One piece",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "One piece",
+      "Naruto",
+      "Dragon Ball",
+      "Hunter x Hunter"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual a maior economia do mundo?",
+    answer: "Estados Unidos",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "China",
+      "Estados Unidos",
+      "Alemanha",
+      "Japão"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Qual time ganhou o mundial em 2012",
+    answer: "Corinthians",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "Corinthians",
+      "Chealsea",
+      "Palmeiras",
+      "Vasco"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual maior planeta do sistema solar",
+    answer: "Jupiter",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Jupiter",
+      "Vênus",
+      "Marte",
+      "Saturno"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
